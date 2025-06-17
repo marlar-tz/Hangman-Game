@@ -6,7 +6,7 @@
 - Mobile design preview
 ![Mobile design preview](./design/Hangman%20game%20demo%20before%20mobile%20design.png)
 
-- Preview of how game play
+- Preview of how game play <br>
 ![preview of how game play](./design/game%20processing.png)
 
 - Game Win
