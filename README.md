@@ -14,3 +14,7 @@
 
 ## Setup
 No additional setup is required. Simply open the index.html file in a web browser to run the game.
+
+## Acknowledgments
+- Weather data provided by [Random Word API](https://random-word-api.vercel.app/)
+- Game word hint fetched from [Dictionary API](https://dictionaryapi.dev/)
